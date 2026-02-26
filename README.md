@@ -10,7 +10,7 @@ I build AI systems at the intersection of neuroscience and machine learning. Cur
 
 ## 🧠 What I'm Working On
 
-- **BCI Research**: ML consultant at [The Sequel Institute](https://www.sequel.institute/), developing neural signal processing algorithms for brain-computer interfaces
+- **BCI Research**: ML consultant at [The Sequel Institute](https://www.sequel.institute/), working on computational neuroscience and brain-computer interfaces
 - **Oscillatory Neural Networks**: Exploring alternatives to transformers using biologically-inspired oscillatory dynamics
 - **Local Learning**: Investigating learning algorithms that work without backpropagation through time
 
