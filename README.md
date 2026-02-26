@@ -8,17 +8,15 @@ I build AI systems at the intersection of neuroscience and machine learning. Cur
 
 ---
 
-## 🧠 What I'm Working On
+## What I'm Working On
 
 - **BCI Research**: ML consultant at [The Sequel Institute](https://www.sequel.institute/), working on computational neuroscience and brain-computer interfaces
-- **Oscillatory Neural Networks**: Exploring alternatives to transformers using biologically-inspired oscillatory dynamics
-- **Local Learning**: Investigating learning algorithms that work without backpropagation through time
 
 ---
 
-## 🎓 Background
+##  Background
 
-**MSc Artificial Intelligence** (110/110 cum laude)
+**MSc Artificial Intelligence**
 University of Milano-Bicocca / University of Milano / University of Pavia
 
 **Thesis**: [*Decoding Neural Dynamics of Visual Perceptual Segmentation*](https://github.com/MirkoMorello/Decoding_Neural_Dynamics_of_Visual_Perceptual_Segmentation)
@@ -26,7 +24,7 @@ Research at Albert Einstein College of Medicine on gaze prediction and computati
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 - **Brain-Computer Interfaces** (BCI) and neural signal processing
 - **Biologically plausible neural networks** and dendritic computation
@@ -36,7 +34,7 @@ Research at Albert Einstein College of Medicine on gaze prediction and computati
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **ML/AI:** PyTorch, TensorFlow, scikit-learn, JAX
 **Languages:** Python, C++, Java, JavaScript
@@ -45,59 +43,44 @@ Research at Albert Einstein College of Medicine on gaze prediction and computati
 
 ---
 
-## 📌 Featured Projects
+## Latest Projects
 
-### 🩺 [EchoGuardian](https://github.com/MirkoMorello/MSc_Healthcare)
-AI-powered breast cancer detection from ultrasound images. Two-stage pipeline combining U-Net segmentation with radiomic feature extraction for malignancy classification.
-
-**Tech:** PyTorch, Medical Imaging, Deep Learning
-
----
-
-### 🔊 [Audio Denoising](https://github.com/MirkoMorello/MSc_Sensors_Signal)
-Comparative study of deep learning techniques for environmental audio denoising. Novel hybrid loss function combining time-domain, frequency-domain, and SI-SDR objectives.
-
-**Tech:** PyTorch, Signal Processing, Transformers, U-Net
-
----
-
-### 🧬 [Unsupervised Anomaly Detection](https://github.com/MirkoMorello/MSc_Unsupervised_Learning)
+### [Unsupervised Anomaly Detection](https://github.com/MirkoMorello/MSc_Unsupervised_Learning)
 Comprehensive comparison of anomaly detection algorithms on mixed-type medical data. Custom Gower's distance implementation for heterogeneous features.
 
 **Tech:** PyTorch, scikit-learn, Medical Data
 
 ---
 
-### 🧠 [Visual Perceptual Segmentation](https://github.com/MirkoMorello/Decoding_Neural_Dynamics_of_Visual_Perceptual_Segmentation)
+### [Visual Perceptual Segmentation](https://github.com/MirkoMorello/Decoding_Neural_Dynamics_of_Visual_Perceptual_Segmentation)
 MSc thesis work decoding neural dynamics from gaze patterns. Research conducted at Albert Einstein College of Medicine.
 
 **Tech:** Computational Neuroscience, Gaze Prediction
 
 ---
 
-### 🎚️ [VolumeRouter](https://github.com/MirkoMorello/VolumeRouter)
+### [VolumeRouter](https://github.com/MirkoMorello/VolumeRouter)
 Native macOS volume control for DisplayPort monitors. System-level audio routing with per-monitor controls.
 
 **Tech:** C++, macOS, CoreAudio
 
 ---
 
-## 📝 Recent Work
+##  Recent Work
 
 I maintain [mirkomorello.com](https://mirkomorello.com) where I write about:
 - Machine learning engineering
 - Biologically plausible neural networks
 - BCI research and applications
 
-Latest post: [Why Biologically Plausible Neural Networks Matter More Than Ever](https://mirkomorello.com/blog/why-biologically-plausible-neural-networks/)
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
-- 🌐 Website: [mirkomorello.com](https://mirkomorello.com)
-- 💼 Open to: ML research collaborations, BCI projects, neuroscience-inspired AI
-- 📧 Reach me through my website
+-  Website: [mirkomorello.com](https://mirkomorello.com)
+-  Open to: ML research collaborations, BCI projects, neuroscience-inspired AI
+-  Reach me through my website
 
 ---
 
@@ -108,5 +91,5 @@ Latest post: [Why Biologically Plausible Neural Networks Matter More Than Ever](
 ---
 
 <div align="center">
-<sub>🧠 Building the future of brain-computer interfaces, one commit at a time</sub>
+<sub>🧠 Contributing to the future of AI, one commit at a time</sub>
 </div>
